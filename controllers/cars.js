@@ -1,6 +1,6 @@
 const datas = require('../data/data.json');
 
-//filter
+//filters
 var Filter = require('../functions/filterFuncs.js');
 
 var CarsController = {
