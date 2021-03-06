@@ -1,0 +1,38 @@
+[
+    {
+        "name" : "Gol", 
+        "brand" : "volkswagen",
+        "year" : "2011",
+        "type" : "car"
+    },
+    {
+        "name" : "L200", 
+        "brand" : "mitsubishi",
+        "year" : "2019",
+        "type" : "pickup truck"
+    },
+    {
+        "name" : "Toro", 
+        "brand" : "fiat",
+        "year" : "2019",
+        "type" : "pickup truck"
+    },
+    {
+        "name" : "Amarok", 
+        "brand" : "volkswagen",
+        "year" : "2015",
+        "type" : "pickup truck"
+    },
+    {
+        "name" : "Ford Ka", 
+        "brand" : "ford",
+        "year" : "2016",
+        "type" : "car"
+    },
+    {
+        "name" : "Civic", 
+        "brand" : "honda",
+        "year" : "2013",
+        "type" : "car"
+    }
+]
